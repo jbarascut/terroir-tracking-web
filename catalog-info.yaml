@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terroir-tracking-web
+  annotations:
+    github.com/project-slug: jbarascut/terroir-tracking-web
+spec:
+  type: other
+  lifecycle: unknown
+  owner: edx
